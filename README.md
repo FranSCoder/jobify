@@ -1,9 +1,5 @@
 # [Jobify](https://mern-jobify-4g31.onrender.com/landing) - Job Tracking Application :briefcase:
 
-## Prior considerations :thinking:
-
-This project has a mere educational motivation, therefore, I chose the free-tier Render.com servers to deploy it, which have the downside of shutting down after 15 minutes of inactivity. Hence, I ask for a little bit of patience when first loading the application, since it could take about 30 seconds to load (it works normally after the first load).
-
 
 ## What is it about? :bulb:
 
